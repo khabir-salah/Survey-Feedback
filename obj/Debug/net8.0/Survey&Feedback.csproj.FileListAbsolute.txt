@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\Survey&Feedback\bin\Debug\net8.0\Survey&Feedback.exe
+C:\Users\ADMIN\Desktop\Survey&Feedback\bin\Debug\net8.0\Survey&Feedback.deps.json
+C:\Users\ADMIN\Desktop\Survey&Feedback\bin\Debug\net8.0\Survey&Feedback.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Survey&Feedback\bin\Debug\net8.0\Survey&Feedback.dll
+C:\Users\ADMIN\Desktop\Survey&Feedback\bin\Debug\net8.0\Survey&Feedback.pdb
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\Survey&Feedback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\Survey&Feedback.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\Survey&Feedback.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\Survey&Feedback.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\Survey&Feedback.dll
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\refint\Survey&Feedback.dll
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\Survey&Feedback.pdb
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\Survey&Feedback.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Survey&Feedback\obj\Debug\net8.0\ref\Survey&Feedback.dll
